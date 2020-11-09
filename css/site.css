@@ -73,6 +73,11 @@ a {
     border-color: #1861ac;
 }
 
+.gpg {
+    color:rgba(255, 255, 255, .5);
+    font-family: 'Roboto Mono', monospace;
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
